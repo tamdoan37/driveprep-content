@@ -1,6 +1,6 @@
 {
  "version": "2026.11.17.4",
- "generated_at": "2026-11-17T02:37:27.062Z",
+ "generated_at": "2026-11-17T02:42:13.243Z",
  "banks": {
   "core_car": {
    "version": "2026.11.16.5",
@@ -31,7 +31,7 @@
    "url": "banks/state_az.json"
   },
   "state_ca": {
-   "version": "2026.11.17.2",
+   "version": "2026.11.17.3",
    "url": "banks/state_ca.json"
   },
   "state_co": {
@@ -147,7 +147,7 @@
    "url": "banks/state_nv.json"
   },
   "state_ny": {
-   "version": "2026.11.17.2",
+   "version": "2026.11.17.3",
    "url": "banks/state_ny.json"
   },
   "state_oh": {
