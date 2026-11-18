@@ -1,6 +1,6 @@
 {
- "version": "2026.11.17.4",
- "generated_at": "2026-11-17T02:42:13.243Z",
+ "version": "2026.11.18",
+ "generated_at": "2026-11-18T16:43:32.282Z",
  "banks": {
   "core_car": {
    "version": "2026.11.16.5",
@@ -111,7 +111,7 @@
    "url": "banks/state_mo.json"
   },
   "state_ms": {
-   "version": "2026.11.17.2",
+   "version": "2026.11.18",
    "url": "banks/state_ms.json"
   },
   "state_mt": {
@@ -199,7 +199,7 @@
    "url": "banks/state_vt.json"
   },
   "state_wa": {
-   "version": "2026.11.17",
+   "version": "2026.11.18",
    "url": "banks/state_wa.json"
   },
   "state_wi": {
@@ -511,7 +511,7 @@
    "url": "banks/state_mo_motorcycle.json"
   },
   "state_ms_motorcycle": {
-   "version": "2026.11.17.2",
+   "version": "2026.11.18",
    "url": "banks/state_ms_motorcycle.json"
   },
   "state_mt_motorcycle": {
