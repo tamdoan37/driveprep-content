@@ -1,9 +1,9 @@
 {
- "version": "2026.11.21.11",
- "generated_at": "2026-11-21T22:48:53.343Z",
+ "version": "2026.11.21.12",
+ "generated_at": "2026-11-21T22:51:10.688Z",
  "banks": {
   "core_car": {
-   "version": "2026.11.21.11",
+   "version": "2026.11.21.12",
    "url": "banks/core_car.json"
   },
   "core_cdl": {
