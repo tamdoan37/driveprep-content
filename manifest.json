@@ -1,6 +1,6 @@
 {
- "version": "2026.11.21",
- "generated_at": "2026-11-21T01:09:13.253Z",
+ "version": "2026.11.21.2",
+ "generated_at": "2026-11-21T01:45:51.697Z",
  "banks": {
   "core_car": {
    "version": "2026.11.16.5",
@@ -23,7 +23,7 @@
    "url": "banks/state_al.json"
   },
   "state_ar": {
-   "version": "2026.11.21",
+   "version": "2026.11.21.2",
    "url": "banks/state_ar.json"
   },
   "state_az": {
@@ -31,7 +31,7 @@
    "url": "banks/state_az.json"
   },
   "state_ca": {
-   "version": "2026.11.21",
+   "version": "2026.11.21.2",
    "url": "banks/state_ca.json"
   },
   "state_co": {
@@ -131,7 +131,7 @@
    "url": "banks/state_ne.json"
   },
   "state_nh": {
-   "version": "2026.11.05.2",
+   "version": "2026.11.21",
    "url": "banks/state_nh.json"
   },
   "state_nj": {
@@ -139,7 +139,7 @@
    "url": "banks/state_nj.json"
   },
   "state_nm": {
-   "version": "2026.11.17.2",
+   "version": "2026.11.21",
    "url": "banks/state_nm.json"
   },
   "state_nv": {
@@ -187,7 +187,7 @@
    "url": "banks/state_tx.json"
   },
   "state_ut": {
-   "version": "2026.11.17",
+   "version": "2026.11.21",
    "url": "banks/state_ut.json"
   },
   "state_va": {
@@ -275,7 +275,7 @@
    "url": "banks/state_in_cdl.json"
   },
   "state_ks_cdl": {
-   "version": "2026.11.17",
+   "version": "2026.11.21",
    "url": "banks/state_ks_cdl.json"
   },
   "state_ky_cdl": {
