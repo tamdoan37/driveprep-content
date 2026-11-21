@@ -1,6 +1,6 @@
 {
  "version": "2026.11.21.2",
- "generated_at": "2026-11-21T02:07:45.991Z",
+ "generated_at": "2026-11-21T02:10:54.791Z",
  "banks": {
   "core_car": {
    "version": "2026.11.16.5",
@@ -63,7 +63,7 @@
    "url": "banks/state_ia.json"
   },
   "state_id": {
-   "version": "2026.11.21",
+   "version": "2026.11.21.2",
    "url": "banks/state_id.json"
   },
   "state_il": {
