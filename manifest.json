@@ -1,13 +1,13 @@
 {
  "version": "2026.11.23.11",
- "generated_at": "2026-11-23T07:09:26.840Z",
+ "generated_at": "2026-11-23T07:12:57.677Z",
  "banks": {
   "core_car": {
    "version": "2026.11.23.11",
    "url": "banks/core_car.json"
   },
   "core_cdl": {
-   "version": "2026.11.23.5",
+   "version": "2026.11.23.8",
    "url": "banks/core_cdl.json"
   },
   "core_motorcycle": {
