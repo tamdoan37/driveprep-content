@@ -1,17 +1,17 @@
 {
  "version": "2026.11.23.11",
- "generated_at": "2026-11-23T06:39:48.354Z",
+ "generated_at": "2026-11-23T07:08:40.790Z",
  "banks": {
   "core_car": {
    "version": "2026.11.23.11",
    "url": "banks/core_car.json"
   },
   "core_cdl": {
-   "version": "2026.11.17",
+   "version": "2026.11.23.3",
    "url": "banks/core_cdl.json"
   },
   "core_motorcycle": {
-   "version": "2026.11.23.4",
+   "version": "2026.11.23.11",
    "url": "banks/core_motorcycle.json"
   },
   "state_ak": {
