@@ -1,6 +1,6 @@
 {
- "version": "2026.11.24.2",
- "generated_at": "2026-11-24T20:54:41.004Z",
+ "version": "2026.11.25",
+ "generated_at": "2026-11-25T01:48:59.183Z",
  "banks": {
   "core_car": {
    "version": "2026.11.24.2",
@@ -163,7 +163,7 @@
    "url": "banks/state_or.json"
   },
   "state_pa": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.25",
    "url": "banks/state_pa.json"
   },
   "state_ri": {
