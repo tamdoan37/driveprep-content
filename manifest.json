@@ -1,6 +1,6 @@
 {
- "version": "2026.11.26",
- "generated_at": "2026-11-26T18:23:47.970Z",
+ "version": "2026.11.26.2",
+ "generated_at": "2026-11-26T18:30:06.489Z",
  "banks": {
   "core_car": {
    "version": "2026.11.24.2",
@@ -15,7 +15,7 @@
    "url": "banks/core_motorcycle.json"
   },
   "state_ak": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_ak.json"
   },
   "state_al": {
@@ -23,15 +23,15 @@
    "url": "banks/state_al.json"
   },
   "state_ar": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_ar.json"
   },
   "state_az": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_az.json"
   },
   "state_ca": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_ca.json"
   },
   "state_co": {
@@ -51,7 +51,7 @@
    "url": "banks/state_fl.json"
   },
   "state_ga": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_ga.json"
   },
   "state_hi": {
@@ -59,11 +59,11 @@
    "url": "banks/state_hi.json"
   },
   "state_ia": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_ia.json"
   },
   "state_id": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_id.json"
   },
   "state_il": {
@@ -71,7 +71,7 @@
    "url": "banks/state_il.json"
   },
   "state_in": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_in.json"
   },
   "state_ks": {
@@ -79,7 +79,7 @@
    "url": "banks/state_ks.json"
   },
   "state_ky": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_ky.json"
   },
   "state_la": {
@@ -99,7 +99,7 @@
    "url": "banks/state_me.json"
   },
   "state_mi": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_mi.json"
   },
   "state_mn": {
@@ -111,11 +111,11 @@
    "url": "banks/state_mo.json"
   },
   "state_ms": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_ms.json"
   },
   "state_mt": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_mt.json"
   },
   "state_nc": {
@@ -135,7 +135,7 @@
    "url": "banks/state_nh.json"
   },
   "state_nj": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_nj.json"
   },
   "state_nm": {
@@ -155,7 +155,7 @@
    "url": "banks/state_oh.json"
   },
   "state_ok": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_ok.json"
   },
   "state_or": {
@@ -171,11 +171,11 @@
    "url": "banks/state_ri.json"
   },
   "state_sc": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_sc.json"
   },
   "state_sd": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_sd.json"
   },
   "state_tn": {
@@ -187,7 +187,7 @@
    "url": "banks/state_tx.json"
   },
   "state_ut": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_ut.json"
   },
   "state_va": {
@@ -195,7 +195,7 @@
    "url": "banks/state_va.json"
   },
   "state_vt": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_vt.json"
   },
   "state_wa": {
@@ -203,11 +203,11 @@
    "url": "banks/state_wa.json"
   },
   "state_wi": {
-   "version": "2026.11.26",
+   "version": "2026.11.26.2",
    "url": "banks/state_wi.json"
   },
   "state_wv": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_wv.json"
   },
   "state_wy": {
@@ -231,7 +231,7 @@
    "url": "banks/state_az_cdl.json"
   },
   "state_ca_cdl": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_ca_cdl.json"
   },
   "state_co_cdl": {
@@ -431,7 +431,7 @@
    "url": "banks/state_az_motorcycle.json"
   },
   "state_ca_motorcycle": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_ca_motorcycle.json"
   },
   "state_co_motorcycle": {
@@ -603,7 +603,7 @@
    "url": "banks/state_wa_motorcycle.json"
   },
   "state_wi_motorcycle": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_wi_motorcycle.json"
   },
   "state_wv_motorcycle": {
