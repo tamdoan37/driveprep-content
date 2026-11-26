@@ -1,6 +1,6 @@
 {
- "version": "2026.11.25",
- "generated_at": "2026-11-25T01:48:59.183Z",
+ "version": "2026.11.26",
+ "generated_at": "2026-11-26T18:23:47.970Z",
  "banks": {
   "core_car": {
    "version": "2026.11.24.2",
@@ -23,11 +23,11 @@
    "url": "banks/state_al.json"
   },
   "state_ar": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_ar.json"
   },
   "state_az": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_az.json"
   },
   "state_ca": {
@@ -51,15 +51,15 @@
    "url": "banks/state_fl.json"
   },
   "state_ga": {
-   "version": "2026.11.24.2",
+   "version": "2026.11.26",
    "url": "banks/state_ga.json"
   },
   "state_hi": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_hi.json"
   },
   "state_ia": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_ia.json"
   },
   "state_id": {
@@ -83,7 +83,7 @@
    "url": "banks/state_ky.json"
   },
   "state_la": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_la.json"
   },
   "state_ma": {
@@ -91,7 +91,7 @@
    "url": "banks/state_ma.json"
   },
   "state_md": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_md.json"
   },
   "state_me": {
@@ -103,7 +103,7 @@
    "url": "banks/state_mi.json"
   },
   "state_mn": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_mn.json"
   },
   "state_mo": {
@@ -115,7 +115,7 @@
    "url": "banks/state_ms.json"
   },
   "state_mt": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_mt.json"
   },
   "state_nc": {
@@ -131,11 +131,11 @@
    "url": "banks/state_ne.json"
   },
   "state_nh": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_nh.json"
   },
   "state_nj": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_nj.json"
   },
   "state_nm": {
@@ -143,7 +143,7 @@
    "url": "banks/state_nm.json"
   },
   "state_nv": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_nv.json"
   },
   "state_ny": {
@@ -151,11 +151,11 @@
    "url": "banks/state_ny.json"
   },
   "state_oh": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_oh.json"
   },
   "state_ok": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_ok.json"
   },
   "state_or": {
@@ -175,11 +175,11 @@
    "url": "banks/state_sc.json"
   },
   "state_sd": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_sd.json"
   },
   "state_tn": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_tn.json"
   },
   "state_tx": {
@@ -195,7 +195,7 @@
    "url": "banks/state_va.json"
   },
   "state_vt": {
-   "version": "2026.11.23.2",
+   "version": "2026.11.26",
    "url": "banks/state_vt.json"
   },
   "state_wa": {
@@ -203,7 +203,7 @@
    "url": "banks/state_wa.json"
   },
   "state_wi": {
-   "version": "2026.11.24.2",
+   "version": "2026.11.26",
    "url": "banks/state_wi.json"
   },
   "state_wv": {
@@ -211,7 +211,7 @@
    "url": "banks/state_wv.json"
   },
   "state_wy": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_wy.json"
   },
   "state_ak_cdl": {
@@ -383,7 +383,7 @@
    "url": "banks/state_tn_cdl.json"
   },
   "state_tx_cdl": {
-   "version": "2026.11.23",
+   "version": "2026.11.26",
    "url": "banks/state_tx_cdl.json"
   },
   "state_ut_cdl": {
